@@ -27,5 +27,5 @@
 #svn export https://github.com/sbwml/packages_lang_golang/branches/19.x feeds/packages/lang/golang
 
 # airconnect
-svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/airconnect
-svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/luci-app-airconnect
+svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/airconnect package/airconnect
+svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/luci-app-airconnect package/airconnect
