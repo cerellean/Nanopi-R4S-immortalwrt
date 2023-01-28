@@ -28,4 +28,4 @@
 
 # airconnect
 svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/airconnect package/airconnect
-svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/luci-app-airconnect package/airconnect
+svn co https://github.com/linkease/openwrt-app-actions/trunk/applications/luci-app-airconnect package/luci-app-airconnect
